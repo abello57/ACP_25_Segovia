@@ -1,4 +1,4 @@
-# CP1_25_Segovia
+# cp25s
 COMPUTER PROGRAMMING 1 (BBABCSAI2025NBCSAI.2.S.A_C2_493611)
 BCSAI program IE University Segovia Campus
 

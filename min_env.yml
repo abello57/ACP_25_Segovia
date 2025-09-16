@@ -1,0 +1,10 @@
+# Minimal environment.yml
+name: minenv
+channels:
+   - conda-forge
+dependencies:
+   - cmake>=3.27
+   - c-compiler
+   - make
+   - git
+
